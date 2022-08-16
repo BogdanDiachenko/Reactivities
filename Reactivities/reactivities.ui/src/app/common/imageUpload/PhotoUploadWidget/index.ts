@@ -1,0 +1,1 @@
+export { PhotoUploadWidget } from './PhotoUploadWidget'

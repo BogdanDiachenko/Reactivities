@@ -1,0 +1,1 @@
+export { PhotoWidgetDropzone } from './PhotoWidgetDropzone';
